@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button2" type="id" />
+    <item name="button4" type="id" />
+    <item name="button3" type="id" />
+    <item name="buttonSignIn" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="buttonGames" type="id" />
+    <item name="buttonTools" type="id" />
+    <item name="buttonBooks" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="mainLayout" type="id" />
+    <item name="backToLoginButton" type="id" />
+</resources>

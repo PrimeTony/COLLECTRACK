@@ -4,4 +4,6 @@
     <string name="tools">Tools</string>
     <string name="books">Books</string>
     <string name="make_a_choice">Make a choice</string>
+    <string name="sign_in">Sign In</string>
+    <string name="back_to_login">Back to Login</string>
 </resources>
